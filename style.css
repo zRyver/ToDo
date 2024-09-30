@@ -1,0 +1,43 @@
+body{
+    background-color: #E9EFEC;
+    
+}
+
+#container{
+    background-color: #16423C;
+    height: auto;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 30px;
+}
+h1{
+    color: #E9EFEC;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#new-task{
+    font-family: 'Segoe UI', Tahoma , Verdana, sans-serif;
+    border: 0;
+    background-color: #E9EFEC;
+    width: 450px;
+    height: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #16423C;
+}
+
+
+.task{
+    color: #16423C;
+    background-color: #6A9C89;
+    border: 0;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+    margin-top: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
