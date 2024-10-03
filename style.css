@@ -49,25 +49,3 @@ h1{
     cursor: pointer;
     border-radius: 5px;
 }
-
-.form-container{
-    margin:3px;
-    height: 30px;
-}
-
-.login-lab{
-    color: #E9EFEC;
-}
-input {
-    height: 25px;
-    border-radius: 5px;
-    border: 0;
-}
-
-.forum-btn{
-    background-color: #E9EFEC;
-    color: #16423C;
-    width: 80px;
-    height: 30px;
-    margin: 5px;
-}
